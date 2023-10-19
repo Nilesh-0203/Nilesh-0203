@@ -159,3 +159,25 @@
     <td align="center"><a href="https://www.instagram.com/its_kartik_0203"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
   </table>
 </details>
+
+
+<details> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Profiles-cyan?style=plastic&logo=code&logoColor=red" width="200px" height="40px" /></a></summary>
+  <table border="3" align="center">
+    <td align="center"><a href="https://leetcode.com/Nilesh_Kudale/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="55"/></a></td>
+    <td align="center"><a href="https://auth.geeksforgeeks.org/user/nileshkuz1i8" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="65" height="55"/></a></td>
+    <td align="center"><a href="https://www.codingninjas.com/studio/profile/5a6cb5b6-54ff-4145-91c1-015f2d8c3894" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.png" alt="Coding Ninjas Studio" width="65"/></a></td>
+    <tr>
+    <td align="center"><a href="https://leetcode.com/Nilesh_Kudale/"><img src="https://readme-components.vercel.app/api?component=logo&fill=D29613&logo=leetcode&svgfill=black"></a></td>
+    <td align="center"><a href="https://auth.geeksforgeeks.org/user/nileshkuz1i8"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=geeksforgeeks&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.codingninjas.com/studio/profile/5a6cb5b6-54ff-4145-91c1-015f2d8c3894"><img src="https://readme-components.vercel.app/api?component=logo&fill=fA7328&logo=Coding%20Ninjas%20Studio&svgfill=darkblue"></a></td>
+    <tr>
+    <td align="center"><a href="https://www.hackerrank.com/nkudale939" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="55"/></a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/22544971/nilesh-kudale" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="55"/></a></td>
+    <td align="center"><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Kaggle" width="40"/></a></td>
+    <tr>
+    <td align="center"><a href="https://www.hackerrank.com/nkudale939"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/22544971/nilesh-kudale"><img src="https://readme-components.vercel.app/api?component=logo&fill=FE7A16&logo=stackoverflow&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=kaggle&svgfill=white"></a></td>
+  </table>
+</details>
