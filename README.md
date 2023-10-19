@@ -4,6 +4,19 @@
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
 <h3 align="center">A passionate Devops Engineer and Frontend developer from India</h3>
 
+[![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Nilesh-0203)
+[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAkashSingh3031%26type%3Djson)](https://github.com/Nilesh-0203)
+[![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AkashSingh3031/AkashSingh3031?style=plastic&logo=history)](https://github.com/Nilesh-0203/Nilesh-0203/commits/master)
+[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/Nilesh-0203)
+[![Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/Nilesh-0203)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/nilesh_kudale/)
+[![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AkashSingh3031?style=social&logo=followers)](https://github.com/Nilesh-0203?tab=followers)
+<!-- [![Profile Views](https://visitcount.itsvg.in/api?id=AkashSingh3031&label=Profile%20Views&icon=5&pretty=false)](https://github.com/Nilesh-0203) -->
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 - 🌱 I’m currently learning **Different devops tools**
 
 - 👨‍💻 All of my projects are available at [github.com/Nilesh-0203](github.com/Nilesh-0203)
