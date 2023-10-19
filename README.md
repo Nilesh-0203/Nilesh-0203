@@ -34,7 +34,7 @@
     <td><a href="https://wa.me/917083320981" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
     <td><a href="https://t.me/Nilesh0203" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="35px" /> </a></td>
     <td><a href="https://www.linkedin.com/in/nilesh-kudale-b4b838236/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
-    <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
+    <td><a href="https://www.instagram.com/its_kartik_0203/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
     <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45px" /> </a></td>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=nkudale939@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
