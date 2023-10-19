@@ -105,8 +105,6 @@
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&amp;labelColor=white&amp;logo=git&logoColor=F05033"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat&amp;labelColor=white&amp;logo=github&logoColor=black"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=flat&amp;labelColor=white&amp;logo=github%20actions&logoColor=2671E5"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&amp;labelColor=white&amp;logo=markdown&logoColor=black"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=stack-overflow&logoColor=FE7A16"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-03599C.svg?style=flat&amp;labelColor=white&amp;logo=mysql&logoColor=03599C"></a></td>
         </table>
@@ -128,17 +126,11 @@
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/colab.png" alt="Google Colab" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Jupyter%20Notebook.png" alt="Jupyter Notebook" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/vs.png" alt="VS Code" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="PyCharm" width="40" height="40"/></a></td>
 		  <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=google-colab&logoColor=FF6F00"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&amp;labelColor=white&amp;logo=Jupyter&logoColor=F37626"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=visual-studio-code&logoColor=0078d7"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-4dbb5f.svg?style=flat&amp;labelColor=black&amp;logo=pycharm&logoColor=f3c033"></a></td>
         </table>
       </details>
     </td>
   </table>
-
-  <!--📏LINE-->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</details>
