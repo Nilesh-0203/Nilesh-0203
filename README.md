@@ -134,3 +134,28 @@
       </details>
     </td>
   </table>
+
+  <!--📏LINE-->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</details>
+
+<details> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🌐_Social_Networks-orange?style=plastic" width="200px" height="40px" /></a></summary>
+  <table border="3" align="center">
+    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=nkudale939@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
+    <td align="center"><a href="https://github.com/Nilesh-0203" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="GitHub" width="65"/></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/nilesh-kudale-b4b838236/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="LinkedIn" width="55" /></a></td>
+    <tr>
+    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=nkudale939@gmail.com&tf=cm"><img src="https://readme-components.vercel.app/api?component=logo&fill=DB4437&logo=gmail&svgfill=4285F4"></a></td>
+    <td align="center"><a href="https://github.com/Nilesh-0203"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/nilesh-kudale-b4b838236/"><img src="https://readme-components.vercel.app/api?component=logo&fill=0e76a8&logo=linkedin&svgfill=white"></a></td>
+    <tr>
+    <td align="center"><a href="https://wa.me/917083320981" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="WhatsApp" width="55" /></a></td>
+    <td align="center"><a href="https://t.me/Nilesh0203" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" alt="Telegram" width="55" /></a></td>
+    <td align="center"><a href="https://www.instagram.com/its_kartik_0203/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Instagram" width="55" /></a></a></td>
+    <tr>
+    <td align="center"><a href="https://wa.me/917083320981"><img src="https://readme-components.vercel.app/api?component=logo&fill=25D366&logo=whatsapp&svgfill=white"></a></td>
+    <td align="center"><a href="https://t.me/Nilesh0203"><img src="https://readme-components.vercel.app/api?component=logo&fill=1ca0f1&logo=telegram&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.instagram.com/its_kartik_0203"><img src="https://readme-components.vercel.app/api?component=logo&fill=E1306C&logo=instagram&svgfill=white"></a></td>
+  </table>
+</details>
