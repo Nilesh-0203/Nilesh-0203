@@ -7,11 +7,6 @@
 [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Nilesh-0203)
 [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DNilesh-0203%26type%3Djson)](https://github.com/Nilesh-0203)
 
-[![GFG Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=gfg%20streak&query=%24.currentStreak.length&suffix=%20
-days&url=https://practice.geeksforgeeks.org/problem-of-the-day?utm_source=gfgpractice&utm_medium=events_page&utm_campaign=events_series_problem_of_the_day)](https://auth.geeksforgeeks.org/user/nileshkuz1i8)
-
-
-
 [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/Nilesh-0203/Nilesh-0203?style=plastic&logo=history)](https://github.com/Nilesh-0203/Nilesh-0203/commits/master)
 [![Today's Profile Visitors](https://hits.sh/github.com/Nilesh-0203/Nilesh-0203.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/Nilesh-0203)
 [![Profile Visitors](https://hits.sh/github.com/Nilesh-0203/Nilesh-0203.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/Nilesh-0203)
@@ -187,3 +182,10 @@ days&url=https://practice.geeksforgeeks.org/problem-of-the-day?utm_source=gfgpra
     <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=kaggle&svgfill=white"></a></td>
   </table>
 </details>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nilesh-0203&show_icons=true&locale=en&layout=compact" alt="Nilesh-0203" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilesh-0203&show_icons=true&locale=en" alt="Nilesh-0203" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-0203&" alt="Nilesh-0203" /></p>
