@@ -179,6 +179,41 @@
 </details>
 
 
+<details> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/📺_Achievements-green?style=plastic&logoColor=cyan" width="200px" height="40px" /></a></summary>
+  <table border="3" align="center">
+    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>    
+<tr>
+  </table>
+</details>
+
+
+
+
+<!-- LeetCode Stats Card ❤️ -->
+<p align="center">
+  <img src="https://leetcode.com/static/images/LeetCode_Cup.png" width="100px">
+</p>
+<details> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/Nilesh_Kudale" width="250px" height="25px" /></a></summary>
+  <p align="center">
+	<a href="https://leetcode.com/Nilesh_Kudale" target="_blank">
+<!-- 	  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/Nilesh_Kudale" width="200px" height="25px" /><br> -->
+	  <table border="3" align="center">
+		<td valign="top">
+			<img src="https://leetcode.card.workers.dev/?username=Nilesh_Kudale&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
+		</td>
+		<td valign="top">
+			<img src="https://leetcard.jacoblin.cool/Nilesh_Kudale?ext=heatmap&border_radius=20"/>
+		</td>
+	  </table>
+	</a>
+  </p>
+</details>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nilesh-0203&show_icons=true&locale=en&layout=compact" alt="Nilesh-0203" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilesh-0203&show_icons=true&locale=en" alt="Nilesh-0203" /></p>
