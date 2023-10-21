@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+ ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 </p>
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
 <h3 align="center">A passionate Devops Engineer and Frontend developer from India</h3>
