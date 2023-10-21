@@ -46,7 +46,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-0203&" alt="Nilesh-0203" /></p>
 <details>
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
   <!--📏LINE-->
@@ -182,13 +182,18 @@
 <details> 
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/📺_Achievements-green?style=plastic&logoColor=cyan" width="200px" height="40px" /></a></summary>
   <table border="3" align="center">
-    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
-    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
-    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
-    <td align="center"><a href="https://drive.google.com/drive/u/2/folders/1i8ieK6l5D61D6wldAEbzQet2wR37djgX" target="_blank"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>    
+    <td align="center"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/CodeXcelerate.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/NIT%20Durgapur.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/Code%20IQ%20GIFT.png" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+<tr>
+ <td align="center"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/Code-A-Thon%20IIT%20Bhubaneswar.png" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/DevSpark%20Coding%20Contest%20VIT%20VELLORE.png" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
+    <td align="center"><img align="center" src="https://github.com/Nilesh-0203/Nilesh-0203/blob/main/Summer%20Coding%20Hackathon.jpg" alt=" CodeXcelerate (AIR-2)" width="300"/></a></td>
 <tr>
   </table>
 </details>
+
+
 
 
 
@@ -215,7 +220,201 @@
 </details>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nilesh-0203&show_icons=true&locale=en&layout=compact" alt="Nilesh-0203" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilesh-0203&show_icons=true&locale=en" alt="Nilesh-0203" /></p>
+
+<table border="5" align="center">
+	<td valign="top">
+		<details>
+		  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Badge_List-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="40px" /></a></summary>
+		  <table border="4" align="center">
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Daily_Medals-ff00ff?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h1>Daily Medals</h1></td>
+		        <tr> -->
+		        <td colspan="6" align="center"><h3>2023</h3></td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2023-03-31</td>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2023-04-30</td>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2023-05-31</td>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2023-06-30</td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2023-07-31</td>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2023-08-31</td>
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2023-09-30</td>
+		      </table>
+		    </details>
+		    </td>
+		    <tr>
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Study_Plan_Medals-ffff00?style=plastic&labelColor=black&logo=3&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
+		        <tr> -->
+		        <td colspan="3" align="center"><h3>Study Plan</h3></td>
+		        <tr>
+		        <!-- DS -->
+		        <td align="center"><a href="https://leetcode.com/nilesh_kudale" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur I</td>
+		      </table>
+		    </details>
+		    </td>
+		  </table>
+		</details>
+	</td>
+  	<td valign="top">
+		<details> 
+		  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Ninjas_Studio_Badge_List-darkblue?style=plastic&logoColor=black" width="250px" height="40px" /></a></summary>
+		  <table border="4" align="center">
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Contest_Ranks-orange?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
+		        <tr> -->
+		        <td align="center"><a href="https://www.codingninjas.com/studio/profile/Nilesh_Kudale" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_3-24341.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>0</b> Gold <br> 1st Rank</td>
+		        <td align="center"><a href="https://www.codingninjas.com/studio/profile/Nilesh_Kudale" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>2</b> Silver <br> 2nd-5th Rank</td>
+		        <td align="center"><a href="https://www.codingninjas.com/studio/profile/Nilesh_Kudale" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_1-24339.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>1</b> Bronze <br> 6th-10th Rank</td>
+		      </table>
+		    </details>
+		    </td> 
+		    <tr> 
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Topic_+_Guided_path_Badge-cyan?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		        <th colspan="2" align="center"><h3>Topic Badge</h3></th>
+		        <th colspan="2" align="center"><h3>Guided path Badge</h3></th>
+		        <tr>
+		        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/Nilesh_Kudale" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_practice_topc_level_3-24347.svg" alt="CodeStudio Badge" width="80" /></a><br><b>8</b> Samurai</td>
+		        <td valign="top">
+		          <table border="1">
+		            <th><h3><code>Topic:</code></h3></th>
+		            <tr>
+		            <td>Arrays</td>
+		            <tr>
+		            <td>Strings</td>
+		            <tr>
+		            <td>Matrices (2D Arrays)</td>
+		            <tr>
+		            <td>Recursion</td>
+		            <tr>
+		            <td>Linked List</td>
+		            <tr>
+		            <td>Stacks & Queues</td>
+		            <tr>
+		            <td>Dynamic Programming</td>
+		            <tr>
+		            <td>Binary Search</td>
+		          </table>
+		        </td>
+		        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/Nilesh_Kudale" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="19" /></a><br><b>20</b> Sensei</td>
+		        <td valign="top">
+		          <table border="1">
+		            <th colspan="2"><h3><code>Guided path:</code></h3></th>
+                                    <tr>
+		            <td><details><summary>Basics of C++</summary><img src="#" width="150"/></details></td>
+		            <tr>
+		            <td><details><summary>OOPs in C++</summary><img src="#" width="150"/></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Python</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>OOPs in Python</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Java</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>OOPs in Java</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Aptitude Preparation</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Operating System (OS)</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Database Management Systems (DBMS)</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>System Design</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of HTML</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of CSS</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of React</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Angular</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Fundamentals of React Native</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Flutter</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Machine Learning</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Data Science</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Blockchain</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>ChatGPT</summary><img src="#" width="150"></details></td>
+		          </table>
+		        </td>
+		          </table>
+		        </td>
+		      </table>
+		    </details>
+		    </td>
+		  </table>
+		</details>
+	</td>
+</table>
+
+
+
+<!--🏆TROPHYGIF-->
+<p align="center">
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</p>
+
+<details>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🏆_GitHub_Trophies-ff00ff?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
+  <!--📏LINE-->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <!-- <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img width="75%" src="https://github-profile-trophy.vercel.app/?username=Nilesh-0203&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+    </a>
+  </p> -->
+  <p align="center">
+    <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
+      <img width="75%" src="https://github-trophies.vercel.app/?username=Nilesh-0203&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+    </a>
+  </p>
+</details>
+
+<details> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Most_used_languages_❤-ff0000?style=plastic&logo=file-code&logoColor=cyan" width="300px" height="40px" /></a></summary>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+  
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh-0203&layout=pie&langs_count=20&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh-0203&theme=radical" alt=""></a> |
+  |---|---|
+  | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilesh-0203&theme=radical"></a> | |
+  
+</div>
+</details>
+
+<details> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/GitHub_Stats-ff0000?style=plastic&logo=github&logoColor=ff00ff" width="250px" height="40px" /></a></summary>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+  
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Nilesh-0203&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-0203&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
+  |---|---|
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh-0203&theme=radical" /></a> |  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilesh-0203&theme=radical&utcOffset=8"></a> |
+  
+</div>
+</details>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-0203&" alt="Nilesh-0203" /></p>
 
