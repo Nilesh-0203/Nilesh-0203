@@ -186,6 +186,6 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nilesh-0203&show_icons=true&locale=en" alt="Nilesh-0203" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-0203&" alt="Nilesh-0203" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nilesh-0203&show_icons=true&locale=en" alt="Nilesh-0203" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-0203&" alt="Nilesh-0203" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nilesh-0203&show_icons=true&locale=en&layout=compact" alt="Nilesh-0203" /></p>
