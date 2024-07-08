@@ -174,7 +174,7 @@
     <tr>
     <td align="center"><a href="https://www.hackerrank.com/nkudale939"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
     <td align="center"><a href="https://stackoverflow.com/users/22544971/nilesh-kudale"><img src="https://readme-components.vercel.app/api?component=logo&fill=FE7A16&logo=stackoverflow&svgfill=white"></a></td>
-    <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=Codechef&svgfill=white"></a></td>
+    <td align="center"><a href="https://www.codechef.com/users/nkudale939"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=Codechef&svgfill=white"></a></td>
   </table>
 </details>
 
