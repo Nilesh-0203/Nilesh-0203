@@ -50,8 +50,6 @@
 
 ---
 
----
-
 # ⚡ Tech Stack
 
 ## ☕ Backend Development
