@@ -47,8 +47,69 @@
 📡 Messaging   : Apache Kafka
 🗄️ Databases   : MySQL | PostgreSQL | Neo4j
 📚 Learning    : Backend Development + Cloud + DevOps
+
 ---
 
-⚡ Tech Stack
-☕ Backend Development
-<p align="left"> <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java" width="55"/> </a> <a href="https://spring.io/"> <img src="https://skillicons.dev/icons?i=spring" width="55"/> </a> <a href="https://maven.apache.org/"> <img src="https://skillicons.dev/icons?i=maven" width="55"/> </a> <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" width="55"/> </a> <a href="https://www.postgresql.org/"> <img src="https://skillicons.dev/icons?i=postgres" width="55"/> </a> <a href="https://redis.io/"> <img src="https://skillicons.dev/icons?i=redis" width="55"/> </a> <a href="https://kafka.apache.org/"> <img src="https://skillicons.dev/icons?i=kafka" width="55"/> </a> </p>
+---
+
+# ⚡ Tech Stack
+
+## ☕ Backend Development
+<p align="left">
+  <a href="https://www.java.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      width="55"
+      height="55"
+      alt="Java"
+    />
+  </a>
+  <a href="https://spring.io/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+      width="55"
+      height="55"
+      alt="Spring Boot"
+    />
+  </a>
+  <a href="https://maven.apache.org/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"
+      width="55"
+      height="55"
+      alt="Maven"
+    />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      width="55"
+      height="55"
+      alt="MySQL"
+    />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      width="55"
+      height="55"
+      alt="PostgreSQL"
+    />
+  </a>
+  <a href="https://redis.io/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      width="55"
+      height="55"
+      alt="Redis"
+    />
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
+      width="55"
+      height="55"
+      alt="Apache Kafka"
+    />
+  </a>
+</p>
