@@ -47,6 +47,7 @@
 📡 Messaging   : Apache Kafka
 🗄️ Databases   : MySQL | PostgreSQL | Neo4j
 📚 Learning    : Backend Development + Cloud + DevOps
+---
 
 ⚡ Tech Stack
 ☕ Backend Development
